@@ -17,10 +17,10 @@
   "author": "Brian Ssekatawa, Mikael Helin, Radha Manickam, Sajid Minhas, Thomas Byman, Ushita Mohammadi, Kajal Parekh, [TODO] add the student from Linköping",
   "license": "[TODO] ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.7.0",
+    "@parcel/transformer-sass": "^2.8.0",
     "eslint": "^8.23.1",
     "husky": "^8.0.1",
-    "parcel": "^2.7.0",
+    "parcel": "^2.8.0",
     "postcss": "^8.4.16",
     "process": "^0.11.10",
     "sharp": "^0.31.2",
