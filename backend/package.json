@@ -9,7 +9,7 @@
     "start": "node ./src/app.js"
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "author": "Ushita mohammadi, Radha Manickam, Sajid Minhas, Kajal Parekh",
   "license": "ISC",
